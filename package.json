@@ -22,10 +22,6 @@
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
@@ -43,6 +39,7 @@
     "@testing-library/dom": "^8.1.0",
     "@testing-library/user-event": "^12.8.3",
     "eslint": "^7.32.0",
+    "eslint-config-react": "^1.1.7",
     "eslint-config-trybe-frontend": "^1.2.3",
     "eslint-plugin-sonarjs": "^0.10.0",
     "prop-types": "^15.7.2",
