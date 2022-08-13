@@ -1,5 +1,7 @@
 # Boas vindas ao repositório do projeto Sistema Solar!
 
+<img src="./solar-system-app.png" alt="solar_system">
+
 ---
 
 # Sumário
